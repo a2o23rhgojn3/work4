@@ -1,0 +1,90 @@
+// style
+a {
+    cursor: pointer;
+}
+
+button {
+    outline: none;
+
+}
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+// position
+.text-align-right {
+    text-align: right;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+}
+
+// wrapper
+.wrapper {
+    margin: 2vh 1vh;
+}
+
+.image-wrapper {
+    width: 100%;
+    padding: 5px;
+}
+
+// layout
+.flex {
+    display: flex;
+}
+
+.flex-direction-column {
+    flex-direction: column;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-right {
+    justify-content: right;
+}
+
+.justify-space-around {
+    justify-content: space-around;
+}
+
+.justify-space-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.x-scroll {
+    overflow-x: scroll;
+}
+
+.grid {
+    display: grid;
+}
